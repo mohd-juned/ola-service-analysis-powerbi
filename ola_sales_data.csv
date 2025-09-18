@@ -1,0 +1,23 @@
+Date,Time,Booking_ID,Booking_Status,Customer_ID,Vehicle_Type,Pickup_Location,Drop_Location,V_TAT,C_TAT,Canceled_Rides_by_Customer,Canceled_Rides_by_Driver,Incomplete_Rides,Incomplete_Rides_Reason,Booking_Value,Payment_Method,Ride_Distance,Driver_Ratings,Customer_Rating,Vehicle Images
+26/07/2024,14:00:00,CNR7153255142,Canceled by Driver,CID713523,Prime Sedan,Tumkur Road,RT Nagar,0,0,null,Personal & Car related issue,null,null,444,null,0,,,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+25/07/2024,22:20:00,CNR2940424040,Success,CID225428,Bike,Magadi Road,Varthur,203,30,null,null,No,null,158,Cash,13,4.1,4,https://cdn-icons-png.flaticon.com/128/9983/9983173.png
+30/07/2024,19:59:00,CNR2982357879,Success,CID270156,Prime SUV,Sahakar Nagar,Varthur,238,130,null,null,No,null,386,UPI,40,4.2,4.8,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+02/07/2024,09:02:00,CNR1797421769,Success,CID939555,Mini,Rajajinagar,Chamarajpet,252,80,null,null,No,null,822,Credit Card,45,4,3,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+13/07/2024,04:42:00,CNR8787177882,Success,CID802429,Mini,Kadugodi,Vijayanagar,231,90,null,null,No,null,173,UPI,41,3.4,4.6,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+23/07/2024,09:51:00,CNR3612067560,Success,CID476071,Bike,Tumkur Road,Whitefield,133,40,null,null,No,null,140,Cash,49,3.2,4.5,https://cdn-icons-png.flaticon.com/128/9983/9983173.png
+29/07/2024,23:33:00,CNR4787583516,Success,CID923404,Prime Plus,Hosur Road,Jayanagar,35,55,null,null,No,null,164,Cash,46,4.5,3.4,https://cdn-icons-png.flaticon.com/128/11409/11409716.png
+26/07/2024,04:03:00,CNR7943634301,Success,CID647026,Prime Plus,Kammanahalli,Rajajinagar,238,95,null,null,No,null,399,Cash,18,3.9,4.4,https://cdn-icons-png.flaticon.com/128/11409/11409716.png
+16/07/2024,09:54:00,CNR8181602032,Success,CID167642,Bike,Indiranagar,MG Road,70,95,null,null,No,null,378,UPI,18,4.8,4.1,https://cdn-icons-png.flaticon.com/128/9983/9983173.png
+02/07/2024,10:25:00,CNR8090918544,Success,CID640151,Bike,Magadi Road,HSR Layout,126,95,null,null,No,null,343,UPI,23,3.7,3.6,https://cdn-icons-png.flaticon.com/128/9983/9983173.png
+05/07/2024,23:42:00,CNR3196156650,Success,CID243275,Bike,Electronic City,Langford Town,140,40,null,null,No,null,401,Cash,8,3.3,3.9,https://cdn-icons-png.flaticon.com/128/9983/9983173.png
+09/07/2024,11:11:00,CNR9975925287,Success,CID162055,Prime SUV,Magadi Road,RT Nagar,42,30,null,null,No,null,343,UPI,17,3,3.8,https://cdn-icons-png.flaticon.com/128/9983/9983204.png
+12/07/2024,14:44:00,CNR1591113431,Success,CID902781,eBike,Koramangala,Sarjapur Road,245,70,null,null,No,null,2014,Cash,33,4.2,4.9,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+08/07/2024,22:33:00,CNR6013805089,Success,CID817034,Prime Sedan,Padmanabhanagar,Jayanagar,168,65,null,null,No,null,231,Cash,2,3.2,3.7,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+03/07/2024,18:20:00,CNR9832070187,Success,CID655872,Bike,Koramangala,BTM Layout,231,145,null,null,No,null,189,Cash,6,4.9,3.3,https://cdn-icons-png.flaticon.com/128/9983/9983173.png
+25/07/2024,03:44:00,CNR7194303296,Success,CID538245,Mini,Mysore Road,Hennur,175,50,null,null,No,null,141,UPI,35,4.7,3.1,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+27/07/2024,06:18:00,CNR7979458138,Success,CID978509,eBike,Frazer Town,Indiranagar,189,65,null,null,No,null,1095,Cash,38,4.8,4.7,https://cdn-icons-png.flaticon.com/128/6839/6839867.png
+23/07/2024,12:56:00,CNR9820692957,Success,CID625327,Prime Sedan,Koramangala,Hosur Road,49,85,null,null,No,null,241,Cash,33,3.2,3.5,https://cdn-icons-png.flaticon.com/128/14183/14183770.png
+11/07/2024,11:28:00,CNR7871058089,Success,CID221021,Mini,Hennur,Kengeri,56,140,null,null,No,null,989,Cash,4,4.5,4.2,https://cdn-icons-png.flaticon.com/128/3202/3202926.png
+06/07/2024,01:18:00,CNR7486448495,Success,CID931462,Auto,Ulsoor,Padmanabhanagar,63,65,null,null,No,null,296,UPI,5,4,4.3,https://cdn-icons-png.flaticon.com/128/16526/16526595.png
+01/07/2024,05:03:00,CNR4158584922,Success,CID772392,Auto,Sahakar Nagar,Ramamurthy Nagar,35,45,null,null,No,null,934,UPI,12,3.3,5,https://cdn-icons-png.flaticon.com/128/16526/16526595.png
+13/07/2024,02:55:00,CNR7623690602,Success,CID526261,Bike,Cox Town,Malleshwaram,259,75,null,null,Yes,Other Issue,558,UPI,41,3.2,3.2,https://cdn-icons-png.flaticon.com/128/9983/9983173.png
