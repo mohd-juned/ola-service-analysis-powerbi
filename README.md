@@ -24,7 +24,6 @@ This dashboard enables stakeholders to monitor **performance, trends, and custom
 1. **Download the repository**  
    ```bash
          https://github.com/mohd-juned/ola-service-analysis-powerbi/tree/main
-   cd ola-service-analysis-dashboard
    ```
 
 2. **Open the Power BI file**  
