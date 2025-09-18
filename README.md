@@ -23,7 +23,7 @@ This dashboard enables stakeholders to monitor **performance, trends, and custom
 
 1. **Download the repository**  
    ```bash
-   git clone https://github.com/your-username/ola-service-analysis-dashboard.git
+         https://github.com/mohd-juned/ola-service-analysis-powerbi/tree/main
    cd ola-service-analysis-dashboard
    ```
 
@@ -48,14 +48,14 @@ This dashboard enables stakeholders to monitor **performance, trends, and custom
 
 **Mohd Juned**  
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/mohd-juned">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>  
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:md.junedphs@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>  
 
-<a href="https://www.linkedin.com/in/your-linkedin/">
+<a href="https://www.linkedin.com/in/mohd-juned/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>  
